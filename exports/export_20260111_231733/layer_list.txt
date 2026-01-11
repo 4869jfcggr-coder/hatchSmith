@@ -1,0 +1,23 @@
+HatchSmith export list © FIWAtec GmbH
+Source: girl.png
+PNG: 704×665px
+Target: 1000.0mm × 944.6mm | Pen 1.00mm
+Colors: 16
+Hatching: Auto | Crosshatch: 1
+
+01 - layer_01 (#3D2D2F) Share 6.03%
+02 - layer_02 (#988E8E) Share 5.62%
+03 - layer_03 (#A24D5B) Share 5.16%
+04 - layer_04 (#C5AFAC) Share 5.13%
+05 - layer_05 (#C69499) Share 3.27%
+06 - layer_06 (#C7C5CA) Share 3.78%
+07 - layer_07 (#D7CBCB) Share 3.17%
+08 - layer_08 (#DBDCE3) Share 4.50%
+09 - layer_09 (#E4DAE2) Share 1.50%
+10 - layer_10 (#E5E4E8) Share 4.61%
+11 - layer_11 (#EAEAEB) Share 3.36%
+12 - layer_12 (#EFEFEF) Share 3.79%
+13 - layer_13 (#FAFAFA) Share 2.17%
+14 - layer_14 (#FFFFFF) Share 46.98%
+15 - layer_15 (#FFFFFD) Share 0.91%
+16 - layer_16 (#FDFFFF) Share 0.01%
